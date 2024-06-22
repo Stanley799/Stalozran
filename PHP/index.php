@@ -7,8 +7,7 @@
 </head>
 <body>
     <?php
-    echo "Stalozran";
-
+    echo "Stalozran Otisgit ";
 
     ?>
     
